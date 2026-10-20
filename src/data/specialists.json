@@ -1,0 +1,406 @@
+[
+  {
+    "id": 1,
+    "code": "Sp.An-TI",
+    "name": "Anestesiologi dan Terapi Intensif",
+    "subspecialties": [
+      {
+        "id": 1,
+        "specialty_id": 1,
+        "code": "Subsp.An.Kv",
+        "name": "Anestesi Kardiovaskular dan Critical Care"
+      },
+      {
+        "id": 2,
+        "specialty_id": 1,
+        "code": "Subsp.An.O",
+        "name": "Anestesi Obstetri dan Critical Care"
+      },
+      {
+        "id": 3,
+        "specialty_id": 1,
+        "code": "Subsp.An.Ped",
+        "name": "Anestesi Pediatri dan Critical Care"
+      },
+      {
+        "id": 4,
+        "specialty_id": 1,
+        "code": "Subsp.An.R",
+        "name": "Anestesi Regional"
+      },
+      {
+        "id": 5,
+        "specialty_id": 1,
+        "code": "Subsp.M.N",
+        "name": "Manajemen Nyeri"
+      },
+      {
+        "id": 6,
+        "specialty_id": 1,
+        "code": "Subsp.N.An",
+        "name": "Neuroanestesi dan Critical Care"
+      },
+      {
+        "id": 7,
+        "specialty_id": 1,
+        "code": "Subsp.TI",
+        "name": "Terapi Intensif"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "code": "Sp.B",
+    "name": "Bedah",
+    "subspecialties": [
+      {
+        "id": 8,
+        "specialty_id": 2,
+        "code": "Subsp.BD",
+        "name": "Bedah Digestif"
+      },
+      {
+        "id": 9,
+        "specialty_id": 2,
+        "code": "Subsp.Onk",
+        "name": "Bedah Onkologi"
+      },
+      {
+        "id": 10,
+        "specialty_id": 2,
+        "code": "Subsp.BVE",
+        "name": "Bedah Vaskular dan Endovaskular"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "code": "Sp.BS",
+    "name": "Bedah Saraf",
+    "subspecialties": [
+      {
+        "id": 11,
+        "specialty_id": 3,
+        "code": "Subsp.NF",
+        "name": "Bedah Saraf Fungsional"
+      },
+      {
+        "id": 12,
+        "specialty_id": 3,
+        "code": "Subsp.N-Onk",
+        "name": "Neuro Onkologi"
+      },
+      {
+        "id": 13,
+        "specialty_id": 3,
+        "code": "Subsp.N-Ped",
+        "name": "Neuro Pediatri"
+      },
+      {
+        "id": 14,
+        "specialty_id": 3,
+        "code": "Subsp.N-Tr",
+        "name": "Neuro Trauma"
+      },
+      {
+        "id": 15,
+        "specialty_id": 3,
+        "code": "Subsp.N-Vas",
+        "name": "Neuro Vaskular"
+      },
+      {
+        "id": 16,
+        "specialty_id": 3,
+        "code": "Subsp.TB",
+        "name": "Tulang Belakang"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "code": "Sp.BTKV",
+    "name": "Bedah Toraks dan Kardiovaskular",
+    "subspecialties": [
+      {
+        "id": 17,
+        "specialty_id": 4,
+        "code": "Subsp.JD",
+        "name": "Bedah Jantung Dewasa"
+      },
+      {
+        "id": 18,
+        "specialty_id": 4,
+        "code": "Subsp.JPK",
+        "name": "Bedah Jantung Pediatrik dan Kongenital"
+      },
+      {
+        "id": 19,
+        "specialty_id": 4,
+        "code": "Subsp.T",
+        "name": "Bedah Toraks"
+      },
+      {
+        "id": 20,
+        "specialty_id": 4,
+        "code": "Subsp.VE",
+        "name": "Bedah Vaskular dan Endovaskular"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "code": "Sp.JP",
+    "name": "Jantung dan Pembuluh Darah",
+    "subspecialties": [
+      {
+        "id": 21,
+        "specialty_id": 5,
+        "code": "Subsp.Ar",
+        "name": "Aritmia"
+      },
+      {
+        "id": 22,
+        "specialty_id": 5,
+        "code": "Subsp.Eko",
+        "name": "Ekokardiografi"
+      },
+      {
+        "id": 23,
+        "specialty_id": 5,
+        "code": "Subsp.KI",
+        "name": "Kardiologi Intervensi"
+      },
+      {
+        "id": 24,
+        "specialty_id": 5,
+        "code": "Subsp.K.PedPJB",
+        "name": "Kardiologi Pediatrik dan Penyakit Jantung Bawaan"
+      },
+      {
+        "id": 25,
+        "specialty_id": 5,
+        "code": "Subsp.Vas",
+        "name": "Kedokteran Vaskular"
+      },
+      {
+        "id": 26,
+        "specialty_id": 5,
+        "code": "Subsp.PKv",
+        "name": "Pencitraan Kardiovaskular"
+      },
+      {
+        "id": 27,
+        "specialty_id": 5,
+        "code": "Subsp.KIKv",
+        "name": "Perawatan Intensif dan Kegawatan Kardiovaskular"
+      },
+      {
+        "id": 28,
+        "specialty_id": 5,
+        "code": "Subsp.PRKv",
+        "name": "Prevensi dan Rehabilitasi Kardiovaskular"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "code": "Sp.OG",
+    "name": "Obstetri dan Ginekologi",
+    "subspecialties": [
+      {
+        "id": 29,
+        "specialty_id": 6,
+        "code": "Subsp.Urogin.RE",
+        "name": "Uroginekologi dan Bedah Rekonstruksi Panggul"
+      },
+      {
+        "id": 30,
+        "specialty_id": 6,
+        "code": "Subsp.FM",
+        "name": "Fetomaternal"
+      },
+      {
+        "id": 31,
+        "specialty_id": 6,
+        "code": "Subsp.Onk",
+        "name": "Onkologi Ginekologi"
+      },
+      {
+        "id": 32,
+        "specialty_id": 6,
+        "code": "Subsp.Obginsos",
+        "name": "Obstetri dan Ginekologi Sosial"
+      },
+      {
+        "id": 33,
+        "specialty_id": 6,
+        "code": "Subsp.FER",
+        "name": "Fertilitas dan Endokrinologi Reproduksi"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "code": "Sp.PD",
+    "name": "Penyakit Dalam",
+    "subspecialties": [
+      {
+        "id": 34,
+        "specialty_id": 7,
+        "code": "Subsp.KAI",
+        "name": "Alergi dan Imunologi Klinik"
+      },
+      {
+        "id": 35,
+        "specialty_id": 7,
+        "code": "Subsp.KEMD",
+        "name": "Endokrin, Metabolik, dan Diabetes"
+      },
+      {
+        "id": 36,
+        "specialty_id": 7,
+        "code": "Subsp.KGEH",
+        "name": "Gastroenterologi-hepatologi"
+      },
+      {
+        "id": 37,
+        "specialty_id": 7,
+        "code": "Subsp.KGer",
+        "name": "Geriatri"
+      },
+      {
+        "id": 38,
+        "specialty_id": 7,
+        "code": "Subsp.KGH",
+        "name": "Ginjal dan Hipertensi"
+      },
+      {
+        "id": 39,
+        "specialty_id": 7,
+        "code": "Subsp.KHOM",
+        "name": "Hematologi dan Onkologi Medik"
+      },
+      {
+        "id": 40,
+        "specialty_id": 7,
+        "code": "Subsp.KKV",
+        "name": "Kardiovaskular"
+      },
+      {
+        "id": 41,
+        "specialty_id": 7,
+        "code": "Subsp.KPTI",
+        "name": "Penyakit Tropik dan Infeksi"
+      },
+      {
+        "id": 42,
+        "specialty_id": 7,
+        "code": "Subsp.KPPM",
+        "name": "Psikosomatik dan Paliatif Medik"
+      },
+      {
+        "id": 43,
+        "specialty_id": 7,
+        "code": "Subsp.KP",
+        "name": "Pulmonologi (dan Medik Kritis)"
+      },
+      {
+        "id": 44,
+        "specialty_id": 7,
+        "code": "Subsp.KR",
+        "name": "Reumatologi"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "code": "Sp.A",
+    "name": "Anak",
+    "subspecialties": [
+      {
+        "id": 45,
+        "specialty_id": 8,
+        "code": "Subsp.A.Im",
+        "name": "Alergi, Imunologi, dan Reumatologi"
+      },
+      {
+        "id": 46,
+        "specialty_id": 8,
+        "code": "Subsp.ETIA",
+        "name": "Emergensi dan Terapi Intensif Anak"
+      },
+      {
+        "id": 47,
+        "specialty_id": 8,
+        "code": "Subsp.Endo",
+        "name": "Endokrinologi"
+      },
+      {
+        "id": 48,
+        "specialty_id": 8,
+        "code": "Subsp.GH",
+        "name": "Gastroenterologi dan Hepatologi"
+      },
+      {
+        "id": 49,
+        "specialty_id": 8,
+        "code": "Subsp.H.Onk",
+        "name": "Hematologi dan Onkologi"
+      },
+      {
+        "id": 50,
+        "specialty_id": 8,
+        "code": "Subsp.Inf.PT",
+        "name": "Infeksi dan Penyakit Tropis"
+      },
+      {
+        "id": 51,
+        "specialty_id": 8,
+        "code": "Subsp.Kardio",
+        "name": "Kardiologi"
+      },
+      {
+        "id": 52,
+        "specialty_id": 8,
+        "code": "Subsp.Nefro",
+        "name": "Nefrologi"
+      },
+      {
+        "id": 53,
+        "specialty_id": 8,
+        "code": "Subsp.Neo",
+        "name": "Neonatalogi"
+      },
+      {
+        "id": 54,
+        "specialty_id": 8,
+        "code": "Subsp.Neuro",
+        "name": "Neurologi"
+      },
+      {
+        "id": 55,
+        "specialty_id": 8,
+        "code": "Subsp.NPM",
+        "name": "Nutrisi dan Penyakit Metabolik"
+      },
+      {
+        "id": 56,
+        "specialty_id": 8,
+        "code": "Subsp.Pct",
+        "name": "Pencitraan"
+      },
+      {
+        "id": 57,
+        "specialty_id": 8,
+        "code": "Subsp.Respi",
+        "name": "Respirologi"
+      },
+      {
+        "id": 58,
+        "specialty_id": 8,
+        "code": "Subsp.TKPS",
+        "name": "Tumbuh Kembang dan Pediatri Sosial"
+      }
+    ]
+  }
+]

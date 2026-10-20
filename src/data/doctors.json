@@ -1,0 +1,1617 @@
+[
+  {
+    "id": 1,
+    "name": "dr. Andi Prasetyo",
+    "specialty_id": 1,
+    "specialty_code": "Sp.An-TI",
+    "specialty_name": "Anestesiologi dan Terapi Intensif",
+    "display_name": "dr. Andi Prasetyo, Sp.An-TI, Subsp.An.Kv (K)",
+    "subspecialty_id": 1,
+    "subspecialty_code": "Subsp.An.Kv",
+    "subspecialty_name": "Anestesi Kardiovaskular dan Critical Care",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 2,
+    "name": "dr. Rina Kusumawati",
+    "specialty_id": 1,
+    "specialty_code": "Sp.An-TI",
+    "specialty_name": "Anestesiologi dan Terapi Intensif",
+    "display_name": "dr. Rina Kusumawati, Sp.An-TI, Subsp.An.Kv (K)",
+    "subspecialty_id": 1,
+    "subspecialty_code": "Subsp.An.Kv",
+    "subspecialty_name": "Anestesi Kardiovaskular dan Critical Care",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 3,
+    "name": "dr. Hendra Wijaya",
+    "specialty_id": 1,
+    "specialty_code": "Sp.An-TI",
+    "specialty_name": "Anestesiologi dan Terapi Intensif",
+    "display_name": "dr. Hendra Wijaya, Sp.An-TI, Subsp.An.O (K)",
+    "subspecialty_id": 2,
+    "subspecialty_code": "Subsp.An.O",
+    "subspecialty_name": "Anestesi Obstetri dan Critical Care",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 4,
+    "name": "dr. Siti Nurhaliza",
+    "specialty_id": 1,
+    "specialty_code": "Sp.An-TI",
+    "specialty_name": "Anestesiologi dan Terapi Intensif",
+    "display_name": "dr. Siti Nurhaliza, Sp.An-TI, Subsp.An.O (K)",
+    "subspecialty_id": 2,
+    "subspecialty_code": "Subsp.An.O",
+    "subspecialty_name": "Anestesi Obstetri dan Critical Care",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 5,
+    "name": "dr. Bagus Setiawan",
+    "specialty_id": 1,
+    "specialty_code": "Sp.An-TI",
+    "specialty_name": "Anestesiologi dan Terapi Intensif",
+    "display_name": "dr. Bagus Setiawan, Sp.An-TI, Subsp.An.Ped (K)",
+    "subspecialty_id": 3,
+    "subspecialty_code": "Subsp.An.Ped",
+    "subspecialty_name": "Anestesi Pediatri dan Critical Care",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 6,
+    "name": "dr. Maya Anggraini",
+    "specialty_id": 1,
+    "specialty_code": "Sp.An-TI",
+    "specialty_name": "Anestesiologi dan Terapi Intensif",
+    "display_name": "dr. Maya Anggraini, Sp.An-TI, Subsp.An.R (K)",
+    "subspecialty_id": 4,
+    "subspecialty_code": "Subsp.An.R",
+    "subspecialty_name": "Anestesi Regional",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 7,
+    "name": "dr. Fajar Ramadhan",
+    "specialty_id": 1,
+    "specialty_code": "Sp.An-TI",
+    "specialty_name": "Anestesiologi dan Terapi Intensif",
+    "display_name": "dr. Fajar Ramadhan, Sp.An-TI, Subsp.M.N (K)",
+    "subspecialty_id": 5,
+    "subspecialty_code": "Subsp.M.N",
+    "subspecialty_name": "Manajemen Nyeri",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 8,
+    "name": "dr. Dewi Lestari",
+    "specialty_id": 1,
+    "specialty_code": "Sp.An-TI",
+    "specialty_name": "Anestesiologi dan Terapi Intensif",
+    "display_name": "dr. Dewi Lestari, Sp.An-TI, Subsp.N.An (K)",
+    "subspecialty_id": 6,
+    "subspecialty_code": "Subsp.N.An",
+    "subspecialty_name": "Neuroanestesi dan Critical Care",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 9,
+    "name": "dr. Rizky Pratama",
+    "specialty_id": 1,
+    "specialty_code": "Sp.An-TI",
+    "specialty_name": "Anestesiologi dan Terapi Intensif",
+    "display_name": "dr. Rizky Pratama, Sp.An-TI, Subsp.TI (K)",
+    "subspecialty_id": 7,
+    "subspecialty_code": "Subsp.TI",
+    "subspecialty_name": "Terapi Intensif",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 10,
+    "name": "dr. Ayu Wulandari",
+    "specialty_id": 1,
+    "specialty_code": "Sp.An-TI",
+    "specialty_name": "Anestesiologi dan Terapi Intensif",
+    "display_name": "dr. Ayu Wulandari, Sp.An-TI, Subsp.TI (K)",
+    "subspecialty_id": 7,
+    "subspecialty_code": "Subsp.TI",
+    "subspecialty_name": "Terapi Intensif",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 11,
+    "name": "dr. Prima Yudhistira",
+    "specialty_id": 1,
+    "specialty_code": "Sp.An-TI",
+    "specialty_name": "Anestesiologi dan Terapi Intensif",
+    "display_name": "dr. Prima Yudhistira, Sp.An-TI",
+    "subspecialty_id": null,
+    "subspecialty_code": null,
+    "subspecialty_name": null,
+    "consultant": false,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 12,
+    "name": "dr. Arif Hidayat",
+    "specialty_id": 2,
+    "specialty_code": "Sp.B",
+    "specialty_name": "Bedah",
+    "display_name": "dr. Arif Hidayat, Sp.B, Subsp.BD (K)",
+    "subspecialty_id": 8,
+    "subspecialty_code": "Subsp.BD",
+    "subspecialty_name": "Bedah Digestif",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 13,
+    "name": "dr. Lina Marlina",
+    "specialty_id": 2,
+    "specialty_code": "Sp.B",
+    "specialty_name": "Bedah",
+    "display_name": "dr. Lina Marlina, Sp.B, Subsp.BD (K)",
+    "subspecialty_id": 8,
+    "subspecialty_code": "Subsp.BD",
+    "subspecialty_name": "Bedah Digestif",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 14,
+    "name": "dr. Yusuf Maulana",
+    "specialty_id": 2,
+    "specialty_code": "Sp.B",
+    "specialty_name": "Bedah",
+    "display_name": "dr. Yusuf Maulana, Sp.B, Subsp.Onk (K)",
+    "subspecialty_id": 9,
+    "subspecialty_code": "Subsp.Onk",
+    "subspecialty_name": "Bedah Onkologi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 15,
+    "name": "dr. Putri Handayani",
+    "specialty_id": 2,
+    "specialty_code": "Sp.B",
+    "specialty_name": "Bedah",
+    "display_name": "dr. Putri Handayani, Sp.B, Subsp.Onk (K)",
+    "subspecialty_id": 9,
+    "subspecialty_code": "Subsp.Onk",
+    "subspecialty_name": "Bedah Onkologi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 16,
+    "name": "dr. Teguh Santoso",
+    "specialty_id": 2,
+    "specialty_code": "Sp.B",
+    "specialty_name": "Bedah",
+    "display_name": "dr. Teguh Santoso, Sp.B, Subsp.BVE (K)",
+    "subspecialty_id": 10,
+    "subspecialty_code": "Subsp.BVE",
+    "subspecialty_name": "Bedah Vaskular dan Endovaskular",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 17,
+    "name": "dr. Nadia Safitri",
+    "specialty_id": 2,
+    "specialty_code": "Sp.B",
+    "specialty_name": "Bedah",
+    "display_name": "dr. Nadia Safitri, Sp.B, Subsp.BVE (K)",
+    "subspecialty_id": 10,
+    "subspecialty_code": "Subsp.BVE",
+    "subspecialty_name": "Bedah Vaskular dan Endovaskular",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 18,
+    "name": "dr. Zulkifli Anwar",
+    "specialty_id": 2,
+    "specialty_code": "Sp.B",
+    "specialty_name": "Bedah",
+    "display_name": "dr. Zulkifli Anwar, Sp.B",
+    "subspecialty_id": null,
+    "subspecialty_code": null,
+    "subspecialty_name": null,
+    "consultant": false,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 19,
+    "name": "dr. Marlina Siregar",
+    "specialty_id": 2,
+    "specialty_code": "Sp.B",
+    "specialty_name": "Bedah",
+    "display_name": "dr. Marlina Siregar, Sp.B",
+    "subspecialty_id": null,
+    "subspecialty_code": null,
+    "subspecialty_name": null,
+    "consultant": false,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 20,
+    "name": "dr. Gunawan Saputra",
+    "specialty_id": 3,
+    "specialty_code": "Sp.BS",
+    "specialty_name": "Bedah Saraf",
+    "display_name": "dr. Gunawan Saputra, Sp.BS, Subsp.NF (K)",
+    "subspecialty_id": 11,
+    "subspecialty_code": "Subsp.NF",
+    "subspecialty_name": "Bedah Saraf Fungsional",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 21,
+    "name": "dr. Ratna Sari",
+    "specialty_id": 3,
+    "specialty_code": "Sp.BS",
+    "specialty_name": "Bedah Saraf",
+    "display_name": "dr. Ratna Sari, Sp.BS, Subsp.NF (K)",
+    "subspecialty_id": 11,
+    "subspecialty_code": "Subsp.NF",
+    "subspecialty_name": "Bedah Saraf Fungsional",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 22,
+    "name": "dr. Dimas Anggoro",
+    "specialty_id": 3,
+    "specialty_code": "Sp.BS",
+    "specialty_name": "Bedah Saraf",
+    "display_name": "dr. Dimas Anggoro, Sp.BS, Subsp.N-Onk (K)",
+    "subspecialty_id": 12,
+    "subspecialty_code": "Subsp.N-Onk",
+    "subspecialty_name": "Neuroonkologi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 23,
+    "name": "dr. Citra Permata",
+    "specialty_id": 3,
+    "specialty_code": "Sp.BS",
+    "specialty_name": "Bedah Saraf",
+    "display_name": "dr. Citra Permata, Sp.BS, Subsp.N-Ped (K)",
+    "subspecialty_id": 13,
+    "subspecialty_code": "Subsp.N-Ped",
+    "subspecialty_name": "Neuropediatri",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 24,
+    "name": "dr. Eko Nugroho",
+    "specialty_id": 3,
+    "specialty_code": "Sp.BS",
+    "specialty_name": "Bedah Saraf",
+    "display_name": "dr. Eko Nugroho, Sp.BS, Subsp.N-Tr (K)",
+    "subspecialty_id": 14,
+    "subspecialty_code": "Subsp.N-Tr",
+    "subspecialty_name": "Neurotrauma",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 25,
+    "name": "dr. Wahyu Hidayatullah",
+    "specialty_id": 3,
+    "specialty_code": "Sp.BS",
+    "specialty_name": "Bedah Saraf",
+    "display_name": "dr. Wahyu Hidayatullah, Sp.BS, Subsp.N-Tr (K)",
+    "subspecialty_id": 14,
+    "subspecialty_code": "Subsp.N-Tr",
+    "subspecialty_name": "Neurotrauma",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 26,
+    "name": "dr. Intan Maharani",
+    "specialty_id": 3,
+    "specialty_code": "Sp.BS",
+    "specialty_name": "Bedah Saraf",
+    "display_name": "dr. Intan Maharani, Sp.BS, Subsp.N-Vas (K)",
+    "subspecialty_id": 15,
+    "subspecialty_code": "Subsp.N-Vas",
+    "subspecialty_name": "Neurovaskular",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 27,
+    "name": "dr. Reza Firmansyah",
+    "specialty_id": 3,
+    "specialty_code": "Sp.BS",
+    "specialty_name": "Bedah Saraf",
+    "display_name": "dr. Reza Firmansyah, Sp.BS, Subsp.TB (K)",
+    "subspecialty_id": 16,
+    "subspecialty_code": "Subsp.TB",
+    "subspecialty_name": "Tulang Belakang",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 28,
+    "name": "dr. Surya Darma",
+    "specialty_id": 4,
+    "specialty_code": "Sp.BTKV",
+    "specialty_name": "Bedah Toraks dan Kardiovaskular",
+    "display_name": "dr. Surya Darma, Sp.BTKV, Subsp.JD (K)",
+    "subspecialty_id": 17,
+    "subspecialty_code": "Subsp.JD",
+    "subspecialty_name": "Bedah Jantung Dewasa",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 29,
+    "name": "dr. Anita Rahmawati",
+    "specialty_id": 4,
+    "specialty_code": "Sp.BTKV",
+    "specialty_name": "Bedah Toraks dan Kardiovaskular",
+    "display_name": "dr. Anita Rahmawati, Sp.BTKV, Subsp.JD (K)",
+    "subspecialty_id": 17,
+    "subspecialty_code": "Subsp.JD",
+    "subspecialty_name": "Bedah Jantung Dewasa",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 30,
+    "name": "dr. Irfan Hakim",
+    "specialty_id": 4,
+    "specialty_code": "Sp.BTKV",
+    "specialty_name": "Bedah Toraks dan Kardiovaskular",
+    "display_name": "dr. Irfan Hakim, Sp.BTKV, Subsp.JPK (K)",
+    "subspecialty_id": 18,
+    "subspecialty_code": "Subsp.JPK",
+    "subspecialty_name": "Bedah Jantung Pediatrik dan Kongenital",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 31,
+    "name": "dr. Mega Puspita",
+    "specialty_id": 4,
+    "specialty_code": "Sp.BTKV",
+    "specialty_name": "Bedah Toraks dan Kardiovaskular",
+    "display_name": "dr. Mega Puspita, Sp.BTKV, Subsp.T (K)",
+    "subspecialty_id": 19,
+    "subspecialty_code": "Subsp.T",
+    "subspecialty_name": "Bedah Toraks",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 32,
+    "name": "dr. Joko Widodo Putra",
+    "specialty_id": 4,
+    "specialty_code": "Sp.BTKV",
+    "specialty_name": "Bedah Toraks dan Kardiovaskular",
+    "display_name": "dr. Joko Widodo Putra, Sp.BTKV, Subsp.T (K)",
+    "subspecialty_id": 19,
+    "subspecialty_code": "Subsp.T",
+    "subspecialty_name": "Bedah Toraks",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 33,
+    "name": "dr. Lukman Hakim",
+    "specialty_id": 4,
+    "specialty_code": "Sp.BTKV",
+    "specialty_name": "Bedah Toraks dan Kardiovaskular",
+    "display_name": "dr. Lukman Hakim, Sp.BTKV, Subsp.VE (K)",
+    "subspecialty_id": 20,
+    "subspecialty_code": "Subsp.VE",
+    "subspecialty_name": "Bedah Vaskular dan Endovaskular",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 34,
+    "name": "dr. Bayu Aditya",
+    "specialty_id": 5,
+    "specialty_code": "Sp.JP",
+    "specialty_name": "Jantung dan Pembuluh Darah",
+    "display_name": "dr. Bayu Aditya, Sp.JP, Subsp.Ar (K)",
+    "subspecialty_id": 21,
+    "subspecialty_code": "Subsp.Ar",
+    "subspecialty_name": "Aritmia",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 35,
+    "name": "dr. Sari Indah Permatasari",
+    "specialty_id": 5,
+    "specialty_code": "Sp.JP",
+    "specialty_name": "Jantung dan Pembuluh Darah",
+    "display_name": "dr. Sari Indah Permatasari, Sp.JP, Subsp.Ar (K)",
+    "subspecialty_id": 21,
+    "subspecialty_code": "Subsp.Ar",
+    "subspecialty_name": "Aritmia",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 36,
+    "name": "dr. Fitri Handayani",
+    "specialty_id": 5,
+    "specialty_code": "Sp.JP",
+    "specialty_name": "Jantung dan Pembuluh Darah",
+    "display_name": "dr. Fitri Handayani, Sp.JP, Subsp.Eko (K)",
+    "subspecialty_id": 22,
+    "subspecialty_code": "Subsp.Eko",
+    "subspecialty_name": "Ekokardiografi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 37,
+    "name": "dr. Hasan Basri",
+    "specialty_id": 5,
+    "specialty_code": "Sp.JP",
+    "specialty_name": "Jantung dan Pembuluh Darah",
+    "display_name": "dr. Hasan Basri, Sp.JP, Subsp.Eko (K)",
+    "subspecialty_id": 22,
+    "subspecialty_code": "Subsp.Eko",
+    "subspecialty_name": "Ekokardiografi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 38,
+    "name": "dr. Adi Nugraha",
+    "specialty_id": 5,
+    "specialty_code": "Sp.JP",
+    "specialty_name": "Jantung dan Pembuluh Darah",
+    "display_name": "dr. Adi Nugraha, Sp.JP, Subsp.KI (K)",
+    "subspecialty_id": 23,
+    "subspecialty_code": "Subsp.KI",
+    "subspecialty_name": "Kardiologi Intervensi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 39,
+    "name": "dr. Dian Purnamasari",
+    "specialty_id": 5,
+    "specialty_code": "Sp.JP",
+    "specialty_name": "Jantung dan Pembuluh Darah",
+    "display_name": "dr. Dian Purnamasari, Sp.JP, Subsp.KI (K)",
+    "subspecialty_id": 23,
+    "subspecialty_code": "Subsp.KI",
+    "subspecialty_name": "Kardiologi Intervensi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 40,
+    "name": "dr. Rahmat Hidayat",
+    "specialty_id": 5,
+    "specialty_code": "Sp.JP",
+    "specialty_name": "Jantung dan Pembuluh Darah",
+    "display_name": "dr. Rahmat Hidayat, Sp.JP, Subsp.K.PedPJB (K)",
+    "subspecialty_id": 24,
+    "subspecialty_code": "Subsp.K.PedPJB",
+    "subspecialty_name": "Kardiologi Pediatrik dan Penyakit Jantung Bawaan",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 41,
+    "name": "dr. Novita Sari",
+    "specialty_id": 5,
+    "specialty_code": "Sp.JP",
+    "specialty_name": "Jantung dan Pembuluh Darah",
+    "display_name": "dr. Novita Sari, Sp.JP, Subsp.Vas (K)",
+    "subspecialty_id": 25,
+    "subspecialty_code": "Subsp.Vas",
+    "subspecialty_name": "Kedokteran Vaskular",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 42,
+    "name": "dr. Ferdian Akbar",
+    "specialty_id": 5,
+    "specialty_code": "Sp.JP",
+    "specialty_name": "Jantung dan Pembuluh Darah",
+    "display_name": "dr. Ferdian Akbar, Sp.JP, Subsp.PKv (K)",
+    "subspecialty_id": 26,
+    "subspecialty_code": "Subsp.PKv",
+    "subspecialty_name": "Pencitraan Kardiovaskular",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 43,
+    "name": "dr. Melati Kusuma",
+    "specialty_id": 5,
+    "specialty_code": "Sp.JP",
+    "specialty_name": "Jantung dan Pembuluh Darah",
+    "display_name": "dr. Melati Kusuma, Sp.JP, Subsp.KIKv (K)",
+    "subspecialty_id": 27,
+    "subspecialty_code": "Subsp.KIKv",
+    "subspecialty_name": "Perawatan Intensif dan Kegawatan Kardiovaskular",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 44,
+    "name": "dr. Taufik Hidayat",
+    "specialty_id": 5,
+    "specialty_code": "Sp.JP",
+    "specialty_name": "Jantung dan Pembuluh Darah",
+    "display_name": "dr. Taufik Hidayat, Sp.JP, Subsp.KIKv (K)",
+    "subspecialty_id": 27,
+    "subspecialty_code": "Subsp.KIKv",
+    "subspecialty_name": "Perawatan Intensif dan Kegawatan Kardiovaskular",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 45,
+    "name": "dr. Salsabila Putri",
+    "specialty_id": 5,
+    "specialty_code": "Sp.JP",
+    "specialty_name": "Jantung dan Pembuluh Darah",
+    "display_name": "dr. Salsabila Putri, Sp.JP, Subsp.PRKv (K)",
+    "subspecialty_id": 28,
+    "subspecialty_code": "Subsp.PRKv",
+    "subspecialty_name": "Prevensi dan Rehabilitasi Kardiovaskular",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 46,
+    "name": "dr. Handoko Wibowo",
+    "specialty_id": 5,
+    "specialty_code": "Sp.JP",
+    "specialty_name": "Jantung dan Pembuluh Darah",
+    "display_name": "dr. Handoko Wibowo, Sp.JP",
+    "subspecialty_id": null,
+    "subspecialty_code": null,
+    "subspecialty_name": null,
+    "consultant": false,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 47,
+    "name": "dr. Laila Fitriani",
+    "specialty_id": 6,
+    "specialty_code": "Sp.OG",
+    "specialty_name": "Obstetri dan Ginekologi",
+    "display_name": "dr. Laila Fitriani, Sp.OG, Subsp.Urogin.RE (K)",
+    "subspecialty_id": 29,
+    "subspecialty_code": "Subsp.Urogin.RE",
+    "subspecialty_name": "Uroginekologi dan Bedah Rekonstruksi Panggul",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 48,
+    "name": "dr. Kartika Dewi",
+    "specialty_id": 6,
+    "specialty_code": "Sp.OG",
+    "specialty_name": "Obstetri dan Ginekologi",
+    "display_name": "dr. Kartika Dewi, Sp.OG, Subsp.FM (K)",
+    "subspecialty_id": 30,
+    "subspecialty_code": "Subsp.FM",
+    "subspecialty_name": "Fetomaternal",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 49,
+    "name": "dr. Yulia Rahmadani",
+    "specialty_id": 6,
+    "specialty_code": "Sp.OG",
+    "specialty_name": "Obstetri dan Ginekologi",
+    "display_name": "dr. Yulia Rahmadani, Sp.OG, Subsp.FM (K)",
+    "subspecialty_id": 30,
+    "subspecialty_code": "Subsp.FM",
+    "subspecialty_name": "Fetomaternal",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 50,
+    "name": "dr. Mulyadi Santoso",
+    "specialty_id": 6,
+    "specialty_code": "Sp.OG",
+    "specialty_name": "Obstetri dan Ginekologi",
+    "display_name": "dr. Mulyadi Santoso, Sp.OG, Subsp.Onk (K)",
+    "subspecialty_id": 31,
+    "subspecialty_code": "Subsp.Onk",
+    "subspecialty_name": "Onkologi Ginekologi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 51,
+    "name": "dr. Endang Susilowati",
+    "specialty_id": 6,
+    "specialty_code": "Sp.OG",
+    "specialty_name": "Obstetri dan Ginekologi",
+    "display_name": "dr. Endang Susilowati, Sp.OG, Subsp.Onk (K)",
+    "subspecialty_id": 31,
+    "subspecialty_code": "Subsp.Onk",
+    "subspecialty_name": "Onkologi Ginekologi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 52,
+    "name": "dr. Rosalina Tanjung",
+    "specialty_id": 6,
+    "specialty_code": "Sp.OG",
+    "specialty_name": "Obstetri dan Ginekologi",
+    "display_name": "dr. Rosalina Tanjung, Sp.OG, Subsp.Obginsos (K)",
+    "subspecialty_id": 32,
+    "subspecialty_code": "Subsp.Obginsos",
+    "subspecialty_name": "Obstetri dan Ginekologi Sosial",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 53,
+    "name": "dr. Annisa Rahmi",
+    "specialty_id": 6,
+    "specialty_code": "Sp.OG",
+    "specialty_name": "Obstetri dan Ginekologi",
+    "display_name": "dr. Annisa Rahmi, Sp.OG, Subsp.FER (K)",
+    "subspecialty_id": 33,
+    "subspecialty_code": "Subsp.FER",
+    "subspecialty_name": "Fertilitas dan Endokrinologi Reproduksi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 54,
+    "name": "dr. Hendri Gunawan",
+    "specialty_id": 6,
+    "specialty_code": "Sp.OG",
+    "specialty_name": "Obstetri dan Ginekologi",
+    "display_name": "dr. Hendri Gunawan, Sp.OG, Subsp.FER (K)",
+    "subspecialty_id": 33,
+    "subspecialty_code": "Subsp.FER",
+    "subspecialty_name": "Fertilitas dan Endokrinologi Reproduksi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 55,
+    "name": "dr. Sri Mulyani Lubis",
+    "specialty_id": 6,
+    "specialty_code": "Sp.OG",
+    "specialty_name": "Obstetri dan Ginekologi",
+    "display_name": "dr. Sri Mulyani Lubis, Sp.OG",
+    "subspecialty_id": null,
+    "subspecialty_code": null,
+    "subspecialty_name": null,
+    "consultant": false,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 56,
+    "name": "dr. Fenny Oktaria",
+    "specialty_id": 6,
+    "specialty_code": "Sp.OG",
+    "specialty_name": "Obstetri dan Ginekologi",
+    "display_name": "dr. Fenny Oktaria, Sp.OG",
+    "subspecialty_id": null,
+    "subspecialty_code": null,
+    "subspecialty_name": null,
+    "consultant": false,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 57,
+    "name": "dr. Rudi Hartono",
+    "specialty_id": 7,
+    "specialty_code": "Sp.PD",
+    "specialty_name": "Penyakit Dalam",
+    "display_name": "dr. Rudi Hartono, Sp.PD, Subsp.KAI (K)",
+    "subspecialty_id": 34,
+    "subspecialty_code": "Subsp.KAI",
+    "subspecialty_name": "Alergi dan Imunologi Klinik",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 58,
+    "name": "dr. Wulan Sari",
+    "specialty_id": 7,
+    "specialty_code": "Sp.PD",
+    "specialty_name": "Penyakit Dalam",
+    "display_name": "dr. Wulan Sari, Sp.PD, Subsp.KAI (K)",
+    "subspecialty_id": 34,
+    "subspecialty_code": "Subsp.KAI",
+    "subspecialty_name": "Alergi dan Imunologi Klinik",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 59,
+    "name": "dr. Cahyo Nugroho",
+    "specialty_id": 7,
+    "specialty_code": "Sp.PD",
+    "specialty_name": "Penyakit Dalam",
+    "display_name": "dr. Cahyo Nugroho, Sp.PD, Subsp.KEMD (K)",
+    "subspecialty_id": 35,
+    "subspecialty_code": "Subsp.KEMD",
+    "subspecialty_name": "Endokrin, Metabolik, dan Diabetes",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 60,
+    "name": "dr. Mira Oktaviani",
+    "specialty_id": 7,
+    "specialty_code": "Sp.PD",
+    "specialty_name": "Penyakit Dalam",
+    "display_name": "dr. Mira Oktaviani, Sp.PD, Subsp.KEMD (K)",
+    "subspecialty_id": 35,
+    "subspecialty_code": "Subsp.KEMD",
+    "subspecialty_name": "Endokrin, Metabolik, dan Diabetes",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 61,
+    "name": "dr. Ilham Syahputra",
+    "specialty_id": 7,
+    "specialty_code": "Sp.PD",
+    "specialty_name": "Penyakit Dalam",
+    "display_name": "dr. Ilham Syahputra, Sp.PD, Subsp.KGEH (K)",
+    "subspecialty_id": 36,
+    "subspecialty_code": "Subsp.KGEH",
+    "subspecialty_name": "Gastroenterologi-hepatologi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 62,
+    "name": "dr. Desi Ratnasari",
+    "specialty_id": 7,
+    "specialty_code": "Sp.PD",
+    "specialty_name": "Penyakit Dalam",
+    "display_name": "dr. Desi Ratnasari, Sp.PD, Subsp.KGEH (K)",
+    "subspecialty_id": 36,
+    "subspecialty_code": "Subsp.KGEH",
+    "subspecialty_name": "Gastroenterologi-hepatologi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 63,
+    "name": "dr. Harun Al Rasyid",
+    "specialty_id": 7,
+    "specialty_code": "Sp.PD",
+    "specialty_name": "Penyakit Dalam",
+    "display_name": "dr. Harun Al Rasyid, Sp.PD, Subsp.KGer (K)",
+    "subspecialty_id": 37,
+    "subspecialty_code": "Subsp.KGer",
+    "subspecialty_name": "Geriatri",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 64,
+    "name": "dr. Sulastri Wahyuni",
+    "specialty_id": 7,
+    "specialty_code": "Sp.PD",
+    "specialty_name": "Penyakit Dalam",
+    "display_name": "dr. Sulastri Wahyuni, Sp.PD, Subsp.KGer (K)",
+    "subspecialty_id": 37,
+    "subspecialty_code": "Subsp.KGer",
+    "subspecialty_name": "Geriatri",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 65,
+    "name": "dr. Benny Kurniawan",
+    "specialty_id": 7,
+    "specialty_code": "Sp.PD",
+    "specialty_name": "Penyakit Dalam",
+    "display_name": "dr. Benny Kurniawan, Sp.PD, Subsp.KGH (K)",
+    "subspecialty_id": 38,
+    "subspecialty_code": "Subsp.KGH",
+    "subspecialty_name": "Ginjal dan Hipertensi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 66,
+    "name": "dr. Tuti Alawiyah",
+    "specialty_id": 7,
+    "specialty_code": "Sp.PD",
+    "specialty_name": "Penyakit Dalam",
+    "display_name": "dr. Tuti Alawiyah, Sp.PD, Subsp.KGH (K)",
+    "subspecialty_id": 38,
+    "subspecialty_code": "Subsp.KGH",
+    "subspecialty_name": "Ginjal dan Hipertensi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 67,
+    "name": "dr. Agus Salim",
+    "specialty_id": 7,
+    "specialty_code": "Sp.PD",
+    "specialty_name": "Penyakit Dalam",
+    "display_name": "dr. Agus Salim, Sp.PD, Subsp.KHOM (K)",
+    "subspecialty_id": 39,
+    "subspecialty_code": "Subsp.KHOM",
+    "subspecialty_name": "Hematologi dan Onkologi Medik",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 68,
+    "name": "dr. Rini Astuti",
+    "specialty_id": 7,
+    "specialty_code": "Sp.PD",
+    "specialty_name": "Penyakit Dalam",
+    "display_name": "dr. Rini Astuti, Sp.PD, Subsp.KHOM (K)",
+    "subspecialty_id": 39,
+    "subspecialty_code": "Subsp.KHOM",
+    "subspecialty_name": "Hematologi dan Onkologi Medik",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 69,
+    "name": "dr. Dedi Kurnia",
+    "specialty_id": 7,
+    "specialty_code": "Sp.PD",
+    "specialty_name": "Penyakit Dalam",
+    "display_name": "dr. Dedi Kurnia, Sp.PD, Subsp.KKV (K)",
+    "subspecialty_id": 40,
+    "subspecialty_code": "Subsp.KKV",
+    "subspecialty_name": "Kardiovaskular",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 70,
+    "name": "dr. Ema Rosmawati",
+    "specialty_id": 7,
+    "specialty_code": "Sp.PD",
+    "specialty_name": "Penyakit Dalam",
+    "display_name": "dr. Ema Rosmawati, Sp.PD, Subsp.KKV (K)",
+    "subspecialty_id": 40,
+    "subspecialty_code": "Subsp.KKV",
+    "subspecialty_name": "Kardiovaskular",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 71,
+    "name": "dr. Zainal Abidin",
+    "specialty_id": 7,
+    "specialty_code": "Sp.PD",
+    "specialty_name": "Penyakit Dalam",
+    "display_name": "dr. Zainal Abidin, Sp.PD, Subsp.KPTI (K)",
+    "subspecialty_id": 41,
+    "subspecialty_code": "Subsp.KPTI",
+    "subspecialty_name": "Penyakit Tropik dan Infeksi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 72,
+    "name": "dr. Vina Melinda",
+    "specialty_id": 7,
+    "specialty_code": "Sp.PD",
+    "specialty_name": "Penyakit Dalam",
+    "display_name": "dr. Vina Melinda, Sp.PD, Subsp.KPTI (K)",
+    "subspecialty_id": 41,
+    "subspecialty_code": "Subsp.KPTI",
+    "subspecialty_name": "Penyakit Tropik dan Infeksi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 73,
+    "name": "dr. Okta Firmansyah",
+    "specialty_id": 7,
+    "specialty_code": "Sp.PD",
+    "specialty_name": "Penyakit Dalam",
+    "display_name": "dr. Okta Firmansyah, Sp.PD, Subsp.KPPM (K)",
+    "subspecialty_id": 42,
+    "subspecialty_code": "Subsp.KPPM",
+    "subspecialty_name": "Psikosomatik dan Paliatif Medik",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 74,
+    "name": "dr. Gita Savitri",
+    "specialty_id": 7,
+    "specialty_code": "Sp.PD",
+    "specialty_name": "Penyakit Dalam",
+    "display_name": "dr. Gita Savitri, Sp.PD, Subsp.KP (K)",
+    "subspecialty_id": 43,
+    "subspecialty_code": "Subsp.KP",
+    "subspecialty_name": "Pulmonologi (dan Medik Kritis)",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 75,
+    "name": "dr. Samsul Bahri",
+    "specialty_id": 7,
+    "specialty_code": "Sp.PD",
+    "specialty_name": "Penyakit Dalam",
+    "display_name": "dr. Samsul Bahri, Sp.PD, Subsp.KP (K)",
+    "subspecialty_id": 43,
+    "subspecialty_code": "Subsp.KP",
+    "subspecialty_name": "Pulmonologi (dan Medik Kritis)",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 76,
+    "name": "dr. Nurul Hidayati",
+    "specialty_id": 7,
+    "specialty_code": "Sp.PD",
+    "specialty_name": "Penyakit Dalam",
+    "display_name": "dr. Nurul Hidayati, Sp.PD, Subsp.KR (K)",
+    "subspecialty_id": 44,
+    "subspecialty_code": "Subsp.KR",
+    "subspecialty_name": "Reumatologi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 77,
+    "name": "dr. Darmawan Pohan",
+    "specialty_id": 7,
+    "specialty_code": "Sp.PD",
+    "specialty_name": "Penyakit Dalam",
+    "display_name": "dr. Darmawan Pohan, Sp.PD",
+    "subspecialty_id": null,
+    "subspecialty_code": null,
+    "subspecialty_name": null,
+    "consultant": false,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 78,
+    "name": "dr. Eliza Marpaung",
+    "specialty_id": 7,
+    "specialty_code": "Sp.PD",
+    "specialty_name": "Penyakit Dalam",
+    "display_name": "dr. Eliza Marpaung, Sp.PD",
+    "subspecialty_id": null,
+    "subspecialty_code": null,
+    "subspecialty_name": null,
+    "consultant": false,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 79,
+    "name": "dr. Alya Rahma",
+    "specialty_id": 8,
+    "specialty_code": "Sp.A",
+    "specialty_name": "Anak",
+    "display_name": "dr. Alya Rahma, Sp.A, Subsp.A.Im (K)",
+    "subspecialty_id": 45,
+    "subspecialty_code": "Subsp.A.Im",
+    "subspecialty_name": "Alergi, Imunologi, dan Reumatologi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 80,
+    "name": "dr. Dwi Cahyono",
+    "specialty_id": 8,
+    "specialty_code": "Sp.A",
+    "specialty_name": "Anak",
+    "display_name": "dr. Dwi Cahyono, Sp.A, Subsp.ETIA (K)",
+    "subspecialty_id": 46,
+    "subspecialty_code": "Subsp.ETIA",
+    "subspecialty_name": "Emergensi dan Terapi Intensif Anak",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 81,
+    "name": "dr. Putri Ayuningtyas",
+    "specialty_id": 8,
+    "specialty_code": "Sp.A",
+    "specialty_name": "Anak",
+    "display_name": "dr. Putri Ayuningtyas, Sp.A, Subsp.Endo (K)",
+    "subspecialty_id": 47,
+    "subspecialty_code": "Subsp.Endo",
+    "subspecialty_name": "Endokrinologi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 82,
+    "name": "dr. Ridwan Maulana",
+    "specialty_id": 8,
+    "specialty_code": "Sp.A",
+    "specialty_name": "Anak",
+    "display_name": "dr. Ridwan Maulana, Sp.A, Subsp.GH (K)",
+    "subspecialty_id": 48,
+    "subspecialty_code": "Subsp.GH",
+    "subspecialty_name": "Gastroenterologi dan Hepatologi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 83,
+    "name": "dr. Nabila Zahra",
+    "specialty_id": 8,
+    "specialty_code": "Sp.A",
+    "specialty_name": "Anak",
+    "display_name": "dr. Nabila Zahra, Sp.A, Subsp.H.Onk (K)",
+    "subspecialty_id": 49,
+    "subspecialty_code": "Subsp.H.Onk",
+    "subspecialty_name": "Hematologi dan Onkologi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 84,
+    "name": "dr. Hadi Prakoso",
+    "specialty_id": 8,
+    "specialty_code": "Sp.A",
+    "specialty_name": "Anak",
+    "display_name": "dr. Hadi Prakoso, Sp.A, Subsp.Inf.PT (K)",
+    "subspecialty_id": 50,
+    "subspecialty_code": "Subsp.Inf.PT",
+    "subspecialty_name": "Infeksi dan Penyakit Tropis",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 85,
+    "name": "dr. Yeni Marlina",
+    "specialty_id": 8,
+    "specialty_code": "Sp.A",
+    "specialty_name": "Anak",
+    "display_name": "dr. Yeni Marlina, Sp.A, Subsp.Kardio (K)",
+    "subspecialty_id": 51,
+    "subspecialty_code": "Subsp.Kardio",
+    "subspecialty_name": "Kardiologi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 86,
+    "name": "dr. Fauzan Azhari",
+    "specialty_id": 8,
+    "specialty_code": "Sp.A",
+    "specialty_name": "Anak",
+    "display_name": "dr. Fauzan Azhari, Sp.A, Subsp.Nefro (K)",
+    "subspecialty_id": 52,
+    "subspecialty_code": "Subsp.Nefro",
+    "subspecialty_name": "Nefrologi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 87,
+    "name": "dr. Anisa Fauziah",
+    "specialty_id": 8,
+    "specialty_code": "Sp.A",
+    "specialty_name": "Anak",
+    "display_name": "dr. Anisa Fauziah, Sp.A, Subsp.Neo (K)",
+    "subspecialty_id": 53,
+    "subspecialty_code": "Subsp.Neo",
+    "subspecialty_name": "Neonatalogi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 88,
+    "name": "dr. Rendy Kurniawan",
+    "specialty_id": 8,
+    "specialty_code": "Sp.A",
+    "specialty_name": "Anak",
+    "display_name": "dr. Rendy Kurniawan, Sp.A, Subsp.Neuro (K)",
+    "subspecialty_id": 54,
+    "subspecialty_code": "Subsp.Neuro",
+    "subspecialty_name": "Neurologi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 89,
+    "name": "dr. Selvi Handayani",
+    "specialty_id": 8,
+    "specialty_code": "Sp.A",
+    "specialty_name": "Anak",
+    "display_name": "dr. Selvi Handayani, Sp.A, Subsp.NPM (K)",
+    "subspecialty_id": 55,
+    "subspecialty_code": "Subsp.NPM",
+    "subspecialty_name": "Nutrisi dan Penyakit Metabolik",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 90,
+    "name": "dr. Bima Saputra",
+    "specialty_id": 8,
+    "specialty_code": "Sp.A",
+    "specialty_name": "Anak",
+    "display_name": "dr. Bima Saputra, Sp.A, Subsp.Pct (K)",
+    "subspecialty_id": 56,
+    "subspecialty_code": "Subsp.Pct",
+    "subspecialty_name": "Pencitraan",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 91,
+    "name": "dr. Tari Oktaviana",
+    "specialty_id": 8,
+    "specialty_code": "Sp.A",
+    "specialty_name": "Anak",
+    "display_name": "dr. Tari Oktaviana, Sp.A, Subsp.Respi (K)",
+    "subspecialty_id": 57,
+    "subspecialty_code": "Subsp.Respi",
+    "subspecialty_name": "Respirologi",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 92,
+    "name": "dr. Ghina Maharani",
+    "specialty_id": 8,
+    "specialty_code": "Sp.A",
+    "specialty_name": "Anak",
+    "display_name": "dr. Ghina Maharani, Sp.A, Subsp.TKPS (K)",
+    "subspecialty_id": 58,
+    "subspecialty_code": "Subsp.TKPS",
+    "subspecialty_name": "Tumbuh Kembang dan Pediatri Sosial",
+    "consultant": true,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 93,
+    "name": "dr. Bambang Suryanto",
+    "specialty_id": 8,
+    "specialty_code": "Sp.A",
+    "specialty_name": "Anak",
+    "display_name": "dr. Bambang Suryanto, Sp.A",
+    "subspecialty_id": null,
+    "subspecialty_code": null,
+    "subspecialty_name": null,
+    "consultant": false,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 94,
+    "name": "dr. Fitria Ningsih",
+    "specialty_id": 8,
+    "specialty_code": "Sp.A",
+    "specialty_name": "Anak",
+    "display_name": "dr. Fitria Ningsih, Sp.A",
+    "subspecialty_id": null,
+    "subspecialty_code": null,
+    "subspecialty_name": null,
+    "consultant": false,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  },
+  {
+    "id": 95,
+    "name": "dr. Kurniawati Dewi",
+    "specialty_id": 8,
+    "specialty_code": "Sp.A",
+    "specialty_name": "Anak",
+    "display_name": "dr. Kurniawati Dewi, Sp.A",
+    "subspecialty_id": null,
+    "subspecialty_code": null,
+    "subspecialty_name": null,
+    "consultant": false,
+    "clinic_types": [
+      "REGULER",
+      "EKSEKUTIF"
+    ],
+    "max_slot": 15
+  }
+]
